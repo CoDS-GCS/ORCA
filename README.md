@@ -200,16 +200,3 @@ Contributions are welcome. Please submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Acknowledgments
-
-- Built with [FastAPI](https://fastapi.tiangolo.com/)
-- UI powered by [NiceGUI](https://nicegui.io/)
-- Visualization by [Cytoscape.js](https://js.cytoscape.org/)
-- Language model capabilities by [OpenAI](https://openai.com/)
-
----
-
-## Contact
-
-Project Link: [https://github.com/yourusername/orca](https://github.com/yourusername/orca)
